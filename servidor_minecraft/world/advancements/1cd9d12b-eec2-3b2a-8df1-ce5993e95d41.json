@@ -26,6 +26,7 @@
       "minecraft:jungle": "2025-08-11 02:12:20 +0000",
       "minecraft:ocean": "2025-08-11 02:54:13 +0000",
       "minecraft:warm_ocean": "2025-08-11 03:30:28 +0000",
+      "minecraft:meadow": "2025-08-11 03:59:00 +0000",
       "minecraft:savanna": "2025-08-11 03:48:53 +0000",
       "minecraft:plains": "2025-08-11 02:55:31 +0000"
     },
@@ -984,6 +985,24 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-11 03:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-11 03:58:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-11 03:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-11 03:58:37 +0000"
     },
     "done": true
   },
