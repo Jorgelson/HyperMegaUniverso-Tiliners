@@ -273,3 +273,27 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [11Aug2025 02:42:00.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bakhu_sa) moved wrongly! 0.5056778739788115
 [11Aug2025 02:42:00.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bakhu_sa) moved wrongly! 0.869714952628101
 [11Aug2025 02:42:00.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bakhu_sa) moved wrongly! 1.2331847251625732
+[11Aug2025 02:45:00.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=64, z=-512} BlockPos{x=-380, y=63, z=-512}
+[11Aug2025 02:45:10.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> está un marrano campeando el portal ajdfasd
+[11Aug2025 02:45:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> pt mano ya pase de ahi ajja
+[11Aug2025 02:45:36.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> manda cords
+[11Aug2025 02:46:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> -258 - 1328
+[11Aug2025 02:46:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ando agarrando carbon
+[11Aug2025 02:47:29.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> lleganding
+[11Aug2025 02:48:48.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[11Aug2025 02:48:48.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[11Aug2025 02:50:04.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> que paso jsjs
+[11Aug2025 02:50:26.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:55913] logged in with entity id 84364 at (-247.96692423875896, 62.07326432466507, -1305.3743028856134)
+[11Aug2025 02:50:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[11Aug2025 02:50:57.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ven ven hay un hueco jaa
+[11Aug2025 02:50:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> corre mano
+[11Aug2025 02:51:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> a
+[11Aug2025 02:51:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> no ves lo que yo no?
+[11Aug2025 02:51:35.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ala mrd
+[11Aug2025 02:51:38.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ya lo vi jajajajjajajajajjaja
+[11Aug2025 02:52:08.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ten
+[11Aug2025 02:52:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> afuera hay otro xd
+[11Aug2025 02:52:39.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> jajaj miralo
+[11Aug2025 02:52:51.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> donde??
+[11Aug2025 02:53:32.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ni modo camos jaja
+[11Aug2025 02:53:34.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ni modo jsajdja
