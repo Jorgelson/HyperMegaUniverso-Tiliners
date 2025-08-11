@@ -403,3 +403,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [11Aug2025 03:59:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa fell from a high place
 [11Aug2025 04:01:52.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
 [11Aug2025 04:04:32.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
+[11Aug2025 04:05:21.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[11Aug2025 04:24:48.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[11Aug2025 04:24:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
