@@ -7,13 +7,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-11 03:52:01 +0000",
       "minecraft:deep_ocean": "2025-08-11 02:57:22 +0000",
+      "minecraft:birch_forest": "2025-08-11 03:51:46 +0000",
       "minecraft:wooded_badlands": "2025-08-08 17:21:32 +0000",
       "minecraft:bamboo_jungle": "2025-08-11 02:13:17 +0000",
       "minecraft:beach": "2025-08-11 02:42:23 +0000",
+      "minecraft:sparse_jungle": "2025-08-11 03:46:20 +0000",
       "minecraft:river": "2025-08-08 17:23:11 +0000",
       "minecraft:lukewarm_ocean": "2025-08-11 02:42:30 +0000",
       "minecraft:stony_shore": "2025-08-11 02:43:18 +0000",
+      "minecraft:swamp": "2025-08-11 03:49:14 +0000",
       "minecraft:cold_ocean": "2025-08-11 02:57:55 +0000",
       "minecraft:forest": "2025-08-11 02:45:01 +0000",
       "minecraft:lush_caves": "2025-08-08 17:24:29 +0000",
@@ -21,6 +25,8 @@
       "minecraft:desert": "2025-08-11 02:11:48 +0000",
       "minecraft:jungle": "2025-08-11 02:12:20 +0000",
       "minecraft:ocean": "2025-08-11 02:54:13 +0000",
+      "minecraft:warm_ocean": "2025-08-11 03:30:28 +0000",
+      "minecraft:savanna": "2025-08-11 03:48:53 +0000",
       "minecraft:plains": "2025-08-11 02:55:31 +0000"
     },
     "done": false
@@ -954,6 +960,30 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-11 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-11 03:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-11 03:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-11 03:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-11 03:33:33 +0000"
     },
     "done": true
   },
