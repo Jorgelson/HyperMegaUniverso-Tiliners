@@ -114,3 +114,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Aug2025 15:00:40.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson was boiled
 [12Aug2025 15:01:45.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [12Aug2025 15:01:45.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 15:20:24.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[12Aug2025 15:20:46.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6991ms or 139 ticks behind
+[12Aug2025 15:21:06.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
+[12Aug2025 15:21:27.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6572ms or 131 ticks behind
