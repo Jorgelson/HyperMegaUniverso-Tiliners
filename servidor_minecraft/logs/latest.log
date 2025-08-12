@@ -189,3 +189,23 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Aug2025 17:12:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
 [12Aug2025 17:15:05.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [12Aug2025 17:15:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 17:21:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
+[12Aug2025 17:21:52.483] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.standard_12.08.2025-17.21.52.dat
+[12Aug2025 17:21:52.484] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1507 Y: 66 Z: -2535
+[12Aug2025 17:22:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:23:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:23:27.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:23:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:23:54.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:24:06.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:24:22.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:24:33.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:24:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:25:00.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
+[12Aug2025 17:27:10.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.37.115.73:36103] logged in with entity id 211958 at (-1633.047712868355, 62.073264324665075, -428.75668615483096)
+[12Aug2025 17:27:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 17:28:10.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
+[12Aug2025 17:28:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 17:29:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Iron Golem
+[12Aug2025 17:29:57.327] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.standard_12.08.2025-17.29.57.dat
+[12Aug2025 17:29:57.327] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1480 Y: 72 Z: -2545
