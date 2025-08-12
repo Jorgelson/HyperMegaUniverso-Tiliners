@@ -177,3 +177,14 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Aug2025 02:43:56.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
 [12Aug2025 02:44:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was doomed to fall
 [12Aug2025 02:44:47.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> tamadre ajsja
+[12Aug2025 02:51:51.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1505, y=64, z=-2629} BlockPos{x=-1508, y=63, z=-2630}
+[12Aug2025 02:51:51.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1505, y=64, z=-2629} BlockPos{x=-1508, y=63, z=-2630}
+[12Aug2025 02:51:54.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=63, z=-2628} BlockPos{x=-1512, y=63, z=-2627}
+[12Aug2025 02:53:56.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[12Aug2025 02:53:56.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 02:53:56.720] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 02:58:26.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:46261] logged in with entity id 108669 at (-1469.5172380661227, 66.0625, -2580.5139408425603)
+[12Aug2025 02:58:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 02:58:50.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> duerme oe
+[12Aug2025 02:59:12.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> NO PUEDO JAJAJA ANDO EN LA MINA
+[12Aug2025 02:59:41.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> nmo hay como pe
