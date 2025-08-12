@@ -161,3 +161,31 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Aug2025 16:51:47.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> -1474.97 64.94 -2582.44
 [12Aug2025 16:56:01.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [12Aug2025 16:56:01.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 17:00:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
+[12Aug2025 17:01:41.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:35179] logged in with entity id 164839 at (-580.9546902054332, 69.0, -16.718558610794485)
+[12Aug2025 17:01:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 17:02:16.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[12Aug2025 17:02:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 17:02:40.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:54513] logged in with entity id 166642 at (-596.4322867436406, 66.0, -6.211245697089747)
+[12Aug2025 17:02:40.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 17:02:43.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[12Aug2025 17:02:43.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 17:03:12.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:51991] logged in with entity id 167812 at (-596.4322867436406, 66.0, -6.211245697089747)
+[12Aug2025 17:03:12.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 17:07:25.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> -1474.97 64.94 -2582.44
+[12Aug2025 17:08:17.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by The Locust
+[12Aug2025 17:08:17.495] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.standard_12.08.2025-17.08.17.dat
+[12Aug2025 17:08:17.496] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1541 Y: -14 Z: -2473
+[12Aug2025 17:08:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ttttttttttttttt
+[12Aug2025 17:09:58.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
+[12Aug2025 17:09:58.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 17:10:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> t
+[12Aug2025 17:11:18.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.37.115.73:55363] logged in with entity id 184808 at (-1229.0262336499993, 62.073264242849355, -178.48262628006512)
+[12Aug2025 17:11:18.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 17:12:18.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[12Aug2025 17:12:18.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 17:12:50.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a81c2b6[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.37.115.73:47971) lost connection: Disconnected
+[12Aug2025 17:12:59.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.37.115.73:41947] logged in with entity id 194302 at (-1310.361516847045, 62.07326432466506, -301.3246935221167)
+[12Aug2025 17:12:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 17:15:05.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[12Aug2025 17:15:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
