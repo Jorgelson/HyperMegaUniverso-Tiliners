@@ -132,3 +132,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Aug2025 16:04:29.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
 [12Aug2025 16:15:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Ice Bucket Challenge]
 [12Aug2025 16:15:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Suit Up]
+[12Aug2025 16:17:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1467.93 67.00 -2579.49
+[12Aug2025 16:19:46.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[12Aug2025 16:19:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[12Aug2025 16:19:46.340] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 16:20:27.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:60839] logged in with entity id 87185 at (-1491.1433721828544, 62.9375, -2568.0711570478534)
+[12Aug2025 16:20:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 16:25:28.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ajsdjfkasdf
+[12Aug2025 16:26:47.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ajsdjfkasdf
+[12Aug2025 16:26:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
+[12Aug2025 16:29:35.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
+[12Aug2025 16:33:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
+[12Aug2025 16:35:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
+[12Aug2025 16:36:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44

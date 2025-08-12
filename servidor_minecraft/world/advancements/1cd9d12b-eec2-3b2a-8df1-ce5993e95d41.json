@@ -1947,15 +1947,33 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-12 16:15:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-08-12 15:27:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-12 16:31:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-08-12 15:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-12 16:15:04 +0000"
     },
     "done": true
   },
@@ -1974,6 +1992,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-08-12 15:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-12 16:15:04 +0000"
     },
     "done": true
   },
