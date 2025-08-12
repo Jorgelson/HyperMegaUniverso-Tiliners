@@ -133,3 +133,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Aug2025 02:07:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> vana a desaparecer
 [12Aug2025 02:08:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> pon el cofre
 [12Aug2025 02:08:24.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> despues llevamos
+[12Aug2025 02:09:34.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> oe como la cllamos
+[12Aug2025 02:10:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> que pasa
+[12Aug2025 02:10:18.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> DEBE ESTAR FUERA
+[12Aug2025 02:10:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ta madre jaja
+[12Aug2025 02:11:02.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> om necesito vidrio para esclavizar perunaos
+[12Aug2025 02:11:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> primero callemosla ajja
+[12Aug2025 02:13:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> deja me muero aver si se calla
+[12Aug2025 02:13:22.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> solo vos escuchas jasjs
+[12Aug2025 02:13:35.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1503, y=56, z=-2572} BlockPos{x=-1503, y=57, z=-2572}
+[12Aug2025 02:13:50.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa drowned
+[12Aug2025 02:13:57.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> igual suena jaja
+[12Aug2025 02:14:06.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> deja entro de nuevo sjjs
+[12Aug2025 02:14:08.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> sal y entra jsaj
+[12Aug2025 02:14:33.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[12Aug2025 02:14:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
+[12Aug2025 02:16:26.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.130.169.114:52537] logged in with entity id 39351 at (-1493.3977938218245, 63.0, -2570.533262283727)
+[12Aug2025 02:16:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
+[12Aug2025 02:17:53.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Isn't It Iron Pick]
+[12Aug2025 02:18:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ya vas a empezar a esclavizar jaja
