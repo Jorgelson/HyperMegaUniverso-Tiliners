@@ -118,3 +118,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Aug2025 15:20:46.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6991ms or 139 ticks behind
 [12Aug2025 15:21:06.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
 [12Aug2025 15:21:27.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6572ms or 131 ticks behind
+[12Aug2025 15:29:13.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Aug2025 15:29:36.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8339ms or 166 ticks behind
+[12Aug2025 15:30:26.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:45795] logged in with entity id 5261 at (-1473.649491316683, 66.0, -2580.955256808379)
+[12Aug2025 15:30:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[12Aug2025 15:31:47.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
+[12Aug2025 15:31:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
+[12Aug2025 15:33:07.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[12Aug2025 15:33:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
