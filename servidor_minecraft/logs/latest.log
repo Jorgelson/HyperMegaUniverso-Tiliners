@@ -1,16 +1,16 @@
-[12Aug2025 14:55:40.988] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Aug2025 14:55:40.993] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[12Aug2025 14:55:41.221] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Aug2025 14:55:41.274] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[12Aug2025 14:55:41.491] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 14:55:41.492] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 14:55:41.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 14:55:41.495] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 14:55:41.628] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[12Aug2025 14:55:42.944] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Aug2025 14:55:42.953] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[12Aug2025 14:55:42.995] [main/WARN] [mixin/]: Reference map 'mimicer.refmap.json' for themimic_er.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Aug2025 14:55:43.364] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[13Aug2025 01:37:55.113] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Aug2025 01:37:55.120] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[13Aug2025 01:37:55.401] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Aug2025 01:37:55.475] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[13Aug2025 01:37:55.789] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Aug2025 01:37:55.797] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Aug2025 01:37:55.800] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Aug2025 01:37:55.802] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Aug2025 01:37:55.940] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[13Aug2025 01:37:57.678] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Aug2025 01:37:57.691] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Aug2025 01:37:57.733] [main/WARN] [mixin/]: Reference map 'mimicer.refmap.json' for themimic_er.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 01:37:58.253] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23113!/:?]
@@ -40,172 +40,65 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[12Aug2025 14:55:49.087] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[12Aug2025 14:55:49.091] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[12Aug2025 14:55:49.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Aug2025 14:55:49.893] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[12Aug2025 14:55:49.893] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[12Aug2025 14:55:49.896] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[12Aug2025 14:55:49.896] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[12Aug2025 14:55:50.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[12Aug2025 14:55:50.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[12Aug2025 14:55:50.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
-[12Aug2025 14:55:51.580] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Aug2025 14:55:52.284] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
-[12Aug2025 14:55:52.284] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
-[12Aug2025 14:55:53.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[12Aug2025 14:55:54.093] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1408 advancements
-[12Aug2025 14:55:54.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[12Aug2025 14:55:54.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Aug2025 14:55:54.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Aug2025 14:55:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Aug2025 14:55:54.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Aug2025 14:55:54.868] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Aug2025 14:55:54.949] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12Aug2025 14:55:54.950] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[12Aug2025 14:55:54.950] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12Aug2025 14:55:54.950] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[12Aug2025 14:55:54.970] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
-[12Aug2025 14:55:54.972] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
-[12Aug2025 14:55:55.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Aug2025 14:55:55.815] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:55.815] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:56.467] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:56.775] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:56.916] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:56.966] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.155] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.261] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.334] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.381] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.517] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.780] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.809] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.855] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Aug2025 14:55:57.963] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:58.041] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:58.090] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:58.322] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:58.637] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:55:58.683] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Aug2025 14:56:03.340] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.362] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.380] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.393] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.407] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.420] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.437] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.450] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.452] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.454] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.454] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.463] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 14:56:03.963] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[12Aug2025 14:56:04.452] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6490 ms
-[12Aug2025 14:56:04.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.488s)! For help, type "help"
-[12Aug2025 14:56:04.471] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Aug2025 14:56:19.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.21.46.173:44739] logged in with entity id 7 at (-1469.455315030042, 55.8195954211861, -2526.843515675904)
-[12Aug2025 14:56:19.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
-[12Aug2025 14:56:41.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[12Aug2025 14:56:58.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
-[12Aug2025 14:58:22.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:56667] logged in with entity id 637 at (-1469.3515233671187, 69.5625, -2578.4663356088768)
-[12Aug2025 14:58:22.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 15:00:40.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson was boiled
-[12Aug2025 15:01:45.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 15:01:45.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 15:20:24.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[12Aug2025 15:20:46.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6991ms or 139 ticks behind
-[12Aug2025 15:21:06.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
-[12Aug2025 15:21:27.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6572ms or 131 ticks behind
-[12Aug2025 15:29:13.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[12Aug2025 15:29:36.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8339ms or 166 ticks behind
-[12Aug2025 15:30:26.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:45795] logged in with entity id 5261 at (-1473.649491316683, 66.0, -2580.955256808379)
-[12Aug2025 15:30:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 15:31:47.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
-[12Aug2025 15:31:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
-[12Aug2025 15:33:07.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 15:33:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 15:57:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by The Locust
-[12Aug2025 16:04:21.384] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70aa6de6[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.37.115.73:33475) lost connection: Disconnected
-[12Aug2025 16:04:29.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.37.115.73:45539] logged in with entity id 57792 at (-1467.987293352264, 66.875, -2580.385780115053)
-[12Aug2025 16:04:29.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 16:15:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Ice Bucket Challenge]
-[12Aug2025 16:15:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Suit Up]
-[12Aug2025 16:17:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1467.93 67.00 -2579.49
-[12Aug2025 16:19:46.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 16:19:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 16:19:46.340] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[12Aug2025 16:20:27.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:60839] logged in with entity id 87185 at (-1491.1433721828544, 62.9375, -2568.0711570478534)
-[12Aug2025 16:20:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 16:25:28.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ajsdjfkasdf
-[12Aug2025 16:26:47.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ajsdjfkasdf
-[12Aug2025 16:26:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
-[12Aug2025 16:29:35.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
-[12Aug2025 16:33:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
-[12Aug2025 16:35:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
-[12Aug2025 16:36:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
-[12Aug2025 16:38:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson has made the advancement [Ice Bucket Challenge]
-[12Aug2025 16:46:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> t
-[12Aug2025 16:48:14.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> me la pelas
-[12Aug2025 16:49:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson was boiled
-[12Aug2025 16:49:45.733] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.standard_12.08.2025-16.49.45.dat
-[12Aug2025 16:49:45.741] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1553 Y: -14 Z: -2477
-[12Aug2025 16:50:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> me la pelas
-[12Aug2025 16:50:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1474.97 64.94 -2582.44
-[12Aug2025 16:50:24.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 16:50:24.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 16:50:59.079] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20e1aa31[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.219.33.217:34913) lost connection: Disconnected
-[12Aug2025 16:51:03.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:38269] logged in with entity id 148252 at (-21.769081036640344, 60.763295775140456, 32.04518017128411)
-[12Aug2025 16:51:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 16:51:47.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> -1474.97 64.94 -2582.44
-[12Aug2025 16:56:01.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 16:56:01.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 17:00:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
-[12Aug2025 17:01:41.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:35179] logged in with entity id 164839 at (-580.9546902054332, 69.0, -16.718558610794485)
-[12Aug2025 17:01:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 17:02:16.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 17:02:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 17:02:40.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:54513] logged in with entity id 166642 at (-596.4322867436406, 66.0, -6.211245697089747)
-[12Aug2025 17:02:40.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 17:02:43.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 17:02:43.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 17:03:12.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.219.33.217:51991] logged in with entity id 167812 at (-596.4322867436406, 66.0, -6.211245697089747)
-[12Aug2025 17:03:12.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 17:07:25.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> -1474.97 64.94 -2582.44
-[12Aug2025 17:08:17.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by The Locust
-[12Aug2025 17:08:17.495] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.standard_12.08.2025-17.08.17.dat
-[12Aug2025 17:08:17.496] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1541 Y: -14 Z: -2473
-[12Aug2025 17:08:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ttttttttttttttt
-[12Aug2025 17:09:58.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
-[12Aug2025 17:09:58.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 17:10:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> t
-[12Aug2025 17:11:18.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.37.115.73:55363] logged in with entity id 184808 at (-1229.0262336499993, 62.073264242849355, -178.48262628006512)
-[12Aug2025 17:11:18.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 17:12:18.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 17:12:18.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 17:12:50.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a81c2b6[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.37.115.73:47971) lost connection: Disconnected
-[12Aug2025 17:12:59.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.37.115.73:41947] logged in with entity id 194302 at (-1310.361516847045, 62.07326432466506, -301.3246935221167)
-[12Aug2025 17:12:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 17:15:05.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[12Aug2025 17:15:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 17:21:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
-[12Aug2025 17:21:52.483] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.standard_12.08.2025-17.21.52.dat
-[12Aug2025 17:21:52.484] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1507 Y: 66 Z: -2535
-[12Aug2025 17:22:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:23:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:23:27.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:23:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:23:54.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:24:06.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:24:22.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:24:33.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:24:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:25:00.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Zombie
-[12Aug2025 17:27:10.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.37.115.73:36103] logged in with entity id 211958 at (-1633.047712868355, 62.073264324665075, -428.75668615483096)
-[12Aug2025 17:27:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[12Aug2025 17:28:10.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
-[12Aug2025 17:28:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[12Aug2025 17:29:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by Iron Golem
-[12Aug2025 17:29:57.327] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.standard_12.08.2025-17.29.57.dat
-[12Aug2025 17:29:57.327] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1480 Y: 72 Z: -2545
+[13Aug2025 01:38:04.130] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Aug2025 01:38:04.135] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Aug2025 01:38:04.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Aug2025 01:38:05.026] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[13Aug2025 01:38:05.027] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[13Aug2025 01:38:05.029] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[13Aug2025 01:38:05.029] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[13Aug2025 01:38:05.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[13Aug2025 01:38:05.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[13Aug2025 01:38:05.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[13Aug2025 01:38:06.493] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Aug2025 01:38:07.190] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[13Aug2025 01:38:07.190] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/HyperMegaUniverso-Tiliners/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[13Aug2025 01:38:09.027] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[13Aug2025 01:38:09.168] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1408 advancements
+[13Aug2025 01:38:09.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Aug2025 01:38:09.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Aug2025 01:38:09.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Aug2025 01:38:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Aug2025 01:38:09.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Aug2025 01:38:09.713] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Aug2025 01:38:09.797] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Aug2025 01:38:09.797] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Aug2025 01:38:09.798] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Aug2025 01:38:09.798] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Aug2025 01:38:09.818] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
+[13Aug2025 01:38:09.820] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
+[13Aug2025 01:38:09.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Aug2025 01:38:12.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Aug2025 01:38:18.175] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.176] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.176] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.177] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.177] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.177] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.178] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.178] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.179] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.182] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 01:38:18.972] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
+[13Aug2025 01:38:19.244] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6273 ms
+[13Aug2025 01:38:19.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.432s)! For help, type "help"
+[13Aug2025 01:38:19.268] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Aug2025 01:42:15.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:47687] logged in with entity id 6 at (-1597.4267171470954, 62.073264324665075, -336.6612817069103)
+[13Aug2025 01:42:16.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[13Aug2025 01:42:18.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[13Aug2025 01:42:48.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
+[13Aug2025 01:42:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[13Aug2025 01:43:02.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:45909] logged in with entity id 456 at (-1597.4267171470954, 62.073264324665075, -336.6612817069103)
+[13Aug2025 01:43:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[13Aug2025 01:44:02.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
+[13Aug2025 01:44:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[13Aug2025 01:44:15.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:45825] logged in with entity id 2370 at (-1571.8463251215778, 62.073264324665075, -232.13832374662798)
+[13Aug2025 01:44:15.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[13Aug2025 01:45:15.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
+[13Aug2025 01:45:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[13Aug2025 01:47:14.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:47073] logged in with entity id 3558 at (-1580.1481990521054, 62.073264324665075, -259.4338899128879)
+[13Aug2025 01:47:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[13Aug2025 01:47:44.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
+[13Aug2025 01:47:44.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
